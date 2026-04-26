@@ -9,14 +9,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Darujava&layout=compact&theme=dark&hide_border=true&langs_count=10"
+    srcset="https://github-readme-stats-73zi56hp7-darujavas-projects.vercel.app/api/top-langs/?username=Darujava&layout=compact&theme=dark&hide_border=true&langs_count=10&count_private=true"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Darujava&layout=compact&theme=default&hide_border=true&langs_count=10"
+    srcset="https://github-readme-stats-73zi56hp7-darujavas-projects.vercel.app/api/top-langs/?username=Darujava&layout=compact&theme=default&hide_border=true&langs_count=10&count_private=true"
   />
   <img
     alt="Most Used Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darujava&layout=compact&theme=default&hide_border=true&langs_count=10"
+    src="https://github-readme-stats-73zi56hp7-darujavas-projects.vercel.app/api/top-langs/?username=Darujava&layout=compact&theme=default&hide_border=true&langs_count=10&count_private=true"
   />
 </picture>
