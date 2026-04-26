@@ -4,6 +4,10 @@
 **Darujava/darujava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<table>
+<tr>
+<td>
+
 ### GitHub Stats
 
 <picture>
@@ -21,6 +25,9 @@
   />
 </picture>
 
+</td>
+<td>
+
 ### Most Used Languages
 
 <picture>
@@ -37,6 +44,10 @@
     src="https://github-readme-stats-tan-three-97.vercel.app/api/top-langs/?username=Darujava&layout=compact&theme=default&hide_border=true&langs_count=10&count_private=true"
   />
 </picture>
+
+</td>
+</tr>
+</table>
 
 ### Activity Graph
 
